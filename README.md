@@ -17,12 +17,12 @@ Welcome to the Drum Kit Band web application repository! This application allows
 
 # Usage
 - Open in Browser:
--- Clone or download this repository.
--- Open index.html in a web browser.
+  - Clone or download this repository.
+  - Open index.html in a web browser.
   
 - Interact with Drum Kit:
--- Click on the drum buttons displayed on the screen to play sounds.
--- Alternatively, press the keys "w", "a", "s", "d", "j", "k", "l" to play different drum sounds.
---  If you press/click any other key/button, an alert will notify you about the invalid input.
+  - Click on the drum buttons displayed on the screen to play sounds.
+  - Alternatively, press the keys "w", "a", "s", "d", "j", "k", "l" to play different drum sounds.
+  - If you press/click any other key/button, an alert will notify you about the invalid input.
 
 
